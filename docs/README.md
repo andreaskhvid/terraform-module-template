@@ -1,5 +1,24 @@
-# PROVIDER Resource/Infrastructure Terraform module
+# Terraform module template
+
+> **WARNING**
+> This is a template repository. Remember to **update** the module name and repository name to the acual name of your repository/module and choose the correct links/badges!
+
+<!--- Pick Cloud provider Badge -->
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<!---![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) -->
+<!---![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
+<!---![Snowflake](https://img.shields.io/badge/-SNOWFLAKE-249edc?style=for-the-badge&logo=snowflake&logoColor=white) -->
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+<!--- Replace repository name -->
+![License](https://badgen.net/github/license/andreaskhvid/terraform-module-template/)
+![Release](https://badgen.net/github/release/andreaskhvid/terraform-module-template/)
+
+---
 
 ## Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+_Brief Description:_
+
+* _What does the module do?_
+* _What technologies are used?_
